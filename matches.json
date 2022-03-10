@@ -1,7 +1,7 @@
 [
     {
         "match": 1,
-        "matchid": "1-26-3",
+        "matchid": "10-26-3",
         "date": "26th March, 2022",
         "time": "7:30 PM",
         "team1": "Chennai Super Kings",
@@ -709,7 +709,7 @@
     "t1": "GT",
     "t2": "MI",
     "t1logo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/GT/Logos/Roundbig/GTroundbig.png",
-    "t2logo": "LOGO",
+    "t2logo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
     "t1desc": "MIGujarat Titans is a franchise cricket team based in Ahmedabad, Gujarat, India, that will play in the Indian Premier League (IPL) starting in the 2022 season.[1][2][3] Founded in 2021, the team will play its home matches at the Narendra Modi Stadium in Motera. The franchise is owned by CVC Capital Partners.",
     "t2desc": "Mumbai Indians are a franchise cricket team based in Mumbai, Maharashtra, that competes in the Indian Premier League. Founded in 2008, the team is owned by India's biggest conglomerate, Reliance Industries, through its 100% subsidiary IndiaWin Sports. Since its establishment, the team has played its home matches in the 33,108-capacity Wankhede Stadium in Mumbai."
     },
@@ -750,7 +750,7 @@
     "team2": "Royal Challangers Bangalore",
     "t1": "SRH",
     "t2": "RCB",
-    "t1logo": "SRGLOGO",
+    "t1logo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
     "t2logo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
     "t1desc": "Sunrisers Hyderabad (stylised as SunRisers Hyderabad, abbr. SRH) are a franchise cricket team based in Hyderabad, Telangana, India, that plays in the Indian Premier League (IPL).[3] The franchise is owned by Kalanithi Maran of the SUN Group and was founded in 2012 after the Hyderabad-based Deccan Chargers were terminated by the IPL.",
     "t2desc": "Royal Challengers Bangalore (often abbreviated as RCB) are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League (IPL). It was founded in 2008 by United Spirits and named after the company's liquor brand Royal Challenge."
